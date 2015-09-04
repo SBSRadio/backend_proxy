@@ -9,6 +9,7 @@
   },
   "author": "Viktor Linder",
   "license": "proprietary",
+  "private": true,
   "dependencies": {
     "express": "^4.13.3",
     "express-http-proxy": "^0.6.0"
